@@ -1,5 +1,5 @@
 {
-    "name": "jacobbennett/sendyphp",
+    "name": "moay/sendyphp",
     "description": "A PHP Library for interfacing with the Sendy newsletter system (http://sendy.co). Derived from jacobbennett/sendyphp, no need for CURLOPT_FOLLOWLOCATION",
     "keywords": ["sendy", "newsletter"],
     "license": "MIT",

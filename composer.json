@@ -1,19 +1,18 @@
 {
-    "name": "moay/sendyphp",
+    "name": "jacobbennett/sendyphp",
     "description": "A PHP Library for interfacing with the Sendy newsletter system (http://sendy.co). Derived from jacobbennett/sendyphp, no need for CURLOPT_FOLLOWLOCATION",
     "keywords": ["sendy", "newsletter"],
     "license": "MIT",
     "authors": [
         {
+            "email": "me@jakebennett.net", 
+            "name": "Jacob Bennett",
+            "homepage": "http://jakebennett.net"
+        },
+        {
             "email": "mv@moay.de", 
             "name": "moay",
             "homepage": "http://moay.de"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/JacobBennett/SendyPHP"
         }
     ],
     "require": {
